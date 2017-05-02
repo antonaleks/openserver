@@ -1,0 +1,919 @@
+# Translation of Themes - health-center-lite in Russian
+# This file is distributed under the same license as the Themes - health-center-lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-05 15:19:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - health-center-lite\n"
+
+#. Description of the plugin/theme
+msgid "HealthCentre is a Full Responsive Multi-Purpose Theme  suitable for Hospitals, Clinics, Medical Professions, Health and Medical Blogs and for any type of business's.  Healthcentre is a fast, lightweight, mobile responsive WordPress theme built with speed, SEO and usability in mind. Theme has 8 widgetized areas on Business Page Template which helps you in creating any type of site, support for drop-down menus, in built core widgets and contact form 7 styling support . Create your website exactly the way you want it using the Customizer and see your changes take place right in front of you before publishing. Premium version of this theme have a support for Famous plugin like WPML, Polylang , Contact Form 7 , Google Maps plugin etc. Premium theme offers you more number of widgetized areas, built in core widgets like Team Widget, Testimonial Widget, Services widget etc, number of predefined template like about us , contact us etc etc and even you can customize the layouts of sidebars wihtout adding a single line of code. Navigate to Appearance / Customize to start customizing."
+msgstr "HealthCentre является отзывчивой темой, подходящей для госпиталей, больниц, клиник, медицинских профессий и блогов, а также для любого другого вида бизнеса. HealthCentre - быстрая и мобильная тема для WordPress, В теме есть 8 областей для виджетов в бизнес шаблоне страниц, которые помогут вам создать сайт любого вида. Поддержка выпадающего меню, встроенных виджетов и плагина Contact Form 7. Создайте сайт именно таким, каким вы хотите, используя кастомизатор. В премиум версии этой темы есть поддержка популярных плагинов WPML, Polylang , Contact Form 7 , Google Maps и других. В премиум тебе даже больше областей для виджетов, встроенные виджеты команды, отзывов, услуг, несколько габлонов страниц (о нас, контактов и других). Для настройки перейдите в Дизайн - Настроить (это и есть кастомизатор)."
+
+#. Theme Name of the plugin/theme
+msgid "health-center-lite"
+msgstr "health-center-lite"
+
+#: single.php:16
+msgid "One Comment"
+msgstr "1 комментарий"
+
+#: functions/widget/custom-sidebar.php:86
+#: functions/widget/custom-sidebar.php:88
+msgid "Footer right section area"
+msgstr "Правая область подвала"
+
+#: functions/widget/custom-sidebar.php:7 functions/widget/custom-sidebar.php:9
+msgid "Sidebar widget area"
+msgstr "Область виджетов в боковой колонке"
+
+#: functions/customizer/project-panel.php:60
+#: functions/customizer/service-panel.php:60
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: functions/customizer/faq-panel.php:28
+#: functions/customizer/project-panel.php:28
+#: functions/customizer/recent_news-panel.php:28
+#: functions/customizer/service-panel.php:28
+msgid "Hide section"
+msgstr "Скрыть секцию"
+
+#: functions/customizer/customizer_header.php:12
+#: functions/customizer/customizer_header.php:26
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: functions/customizer/customizer_copyright.php:28
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+#: functions/customizer/customizer_copyright.php:6
+#: functions/customizer/customizer_copyright.php:12
+msgid "Footer copyright settings"
+msgstr "Настройки копирайта в подвале"
+
+#: functions/customizer/callout-panel.php:104
+msgid "Open link in new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: functions/customizer/callout-panel.php:88
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: functions/customizer/callout-panel.php:70
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: functions/customizer/callout-panel.php:52
+msgid "Text"
+msgstr "Текст"
+
+#: functions/customizer/callout-panel.php:35
+#: functions/customizer/faq-panel.php:35
+#: functions/customizer/project-panel.php:35
+#: functions/customizer/service-panel.php:35
+msgid "Section Header"
+msgstr "Заголовок секции"
+
+#: functions/customizer/callout-panel.php:14
+#: functions/customizer/faq-panel.php:14
+#: functions/customizer/project-panel.php:14
+#: functions/customizer/recent_news-panel.php:14
+#: functions/customizer/service-panel.php:14
+msgid "Settings"
+msgstr "Настройки"
+
+#: comments.php:43
+msgid "Logout"
+msgstr "Выход"
+
+#: comments.php:43
+msgid "Logout of this account"
+msgstr "Выйти из этой учетной записи"
+
+#: comments.php:26
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Вы должны быть <a href=\"%s\">авторизованы</a>, чтобы оставить комментарий."
+
+#: comments.php:22
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: 404.php:19
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: functions/health-info/sections/github.php:125
+msgid "Using Jetpack you can create four types of gallery style like Tiled Mosaic, Square Tiles, Circles and Tiled Columns. See gallery look on Health Center theme demo."
+msgstr "С помощью Jetpack вы можете создать четыре типа галереи, такие как мозаика, плитка, круги и плиточные колонки. Смотрите фотогалерею в демо темы  Health Center."
+
+#: functions/health-info/sections/github.php:125
+msgid "Jetpack plugin,"
+msgstr "Плагин Jetpack,"
+
+#: functions/health-info/sections/github.php:125
+msgid "The native WordPress image gallery displays as a grid of image thumbnails. If you want to show overlay effects on the gallery images? You need to install"
+msgstr "Встроенная галерея WordPress отображает сетку превьюшек картинок. Если вы хотите показывать картинки более красивым способом, вам надо установить"
+
+#: functions/health-info/sections/free_pro.php:150
+msgid "Overlay Effects Gallery"
+msgstr "Галерея эффектов наложения"
+
+#: functions/health-info/sections/free_pro.php:119
+msgid "Simple Thumbnail Gallery"
+msgstr "Галерея простых миниатюр"
+
+#: functions/health-info/sections/free_pro.php:51
+msgid "Create Awesome Gallery with Overlay Effects"
+msgstr "Создайте отличную галерею с эффектами"
+
+#: functions/health-info/sections/free_pro.php:50
+#: functions/health-info/sections/github.php:124
+msgid "Jetpack Gallery Support"
+msgstr "Поддержка Jetpack Gallery"
+
+#: functions/health-info/sections/free_pro.php:35
+msgid "Custom Widget"
+msgstr "Настраиваемый виджет"
+
+#: template-blog-with-rightsb.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Новые записи"
+
+#: functions/widget/wbr-resent-news-widget.php:69
+msgid "Number of news to show"
+msgstr "Количество новостей для отображения"
+
+#: functions/customizer/faq-panel.php:48
+#: functions/customizer/project-panel.php:48
+#: functions/customizer/service-panel.php:48
+#: functions/widget/wbr-resent-news-widget.php:64
+msgid "Title"
+msgstr "Заголовок"
+
+#: functions/widget/wbr-resent-news-widget.php:18
+msgid "Recent News widget"
+msgstr "Виджет последних новостей"
+
+#: functions/widget/wbr-resent-news-widget.php:17
+msgid "WBR : Recent News Widget"
+msgstr "WBR : виджет последних новостей"
+
+#: functions/health-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr "Дочерние темы"
+
+#: functions/health-info/welcome-screen.php:210
+msgid "Free VS PRO"
+msgstr "Бесплатная и Платная"
+
+#: functions/health-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr "Необходимые действия"
+
+#: functions/health-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: functions/health-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr "Информация о теме"
+
+#: functions/health-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Ура! Прямо сейчас больше ничего делать не надо."
+
+#: functions/health-info/welcome-screen.php:57
+msgid "Get started with health Lite"
+msgstr "Начало работы с health Lite"
+
+#: functions/health-info/welcome-screen.php:56
+msgid "Welcome! Thank you for choosing health Lite! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Добро пожаловать! Спасибо, что выбрали health Lite! Чтобы получить все плюсы от использования темы, посетите нашу %sвступительную страницу%s."
+
+#: functions/health-info/sections/github.php:117
+msgid "Theme supports  yet another famous plugin WPML / Polylang. With the help of this support you can create website in multiple languages ."
+msgstr "Тема поддерживает еще один известный плагин WPML / Polylang. С помощью этой поддержки можно создать веб-сайт на нескольких языках."
+
+#: functions/health-info/sections/github.php:107
+msgid "Building website with our custom widgets is very simple. Just place them in inside the available Sidebar or even in the content"
+msgstr "Создавать веб-сайты с нашими пользовательскими виджетами очень просто. Просто поместите их внутри имеющихся боковых колонок или даже в содержимом страниц"
+
+#: functions/health-info/sections/github.php:98
+msgid "Help Section"
+msgstr "Секция помощи"
+
+#: functions/health-info/sections/github.php:98
+msgid "We provide good  knowledge base articles which helps you to create an effective wesbite. You can visit these articles on our  "
+msgstr "Мы предоставляем отличную документацию для создания вами эффективного сайта. Вы можете увидеть эти записи на "
+
+#: functions/health-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "Хорошая документация"
+
+#: functions/health-info/sections/github.php:89
+msgid "You will get 8 predefined color skins and you can even make yours favorite color schemes using Custom Color Setting in the Custmizer."
+msgstr "Вы получите 8 предустановленных цветовых гаммы, и вы можете даже сделать ваши любимые цветовые гаммы, используя пользовательские настройки цвета в Кастомизаторе."
+
+#: functions/health-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility created via a testimonail sidebar. Use the HC: Testimonial widget for showig testimonials."
+msgstr "Отзывы являются мощным средством, чтобы завоевать доверие. Используйте HC: виджет отзывов для их отображения."
+
+#: functions/health-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Возможность отзывов"
+
+#: functions/health-info/sections/github.php:71
+msgid "Commonly this section is used to display  Latest News, Announcement and Events type of content. Since this section is created via latest news sidebar you can easily use other WordPress widgets. Powerful styling of all the sidebar areas on HomePage makes this theme very flexible. "
+msgstr "Обычно эта секция используется для отображения последних новостей, объявлений или событий. Так как эта секция создается в боковой колонке новостей, вы можете с легкостью использовать там и другие WordPress виджеты."
+
+#: functions/health-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Секция последних новостей"
+
+#: functions/health-info/sections/github.php:62
+msgid "Showcase any number of projects. Theme will provide you an option for creating 2,3,4 cloumn grid layout by using portfolio 2,3,4 column  layout templates respectively. If you have number of projects to show than these templates will be the answer. You can also create categorised portfolio, which displays all the portfolio categories on single place. In fact we have coded in such a manner so that you can create any number of different set of portfolios."
+msgstr "Покажите любое количество проектов. Тема даст вам возможность использовать макеты с 2, 3 4 колонками. Если у вас есть несколько проектов для демонстрации - тогда смело используйте этот шаблон. Вы также можете создавать категоризированное портфолио, которое отображает все категории в портфолио на одной странице."
+
+#: functions/health-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Возможности портфолио"
+
+#: functions/health-info/sections/github.php:53
+msgid "HomePage Service section is created via Service Sidebar. Use the widget HC: Featured Page for adding service type content. You can display as many services you want having support for thousands of Font Awesome Icons, custom icons and image graphics. Setting is provided for the changing the postion of image / icon around the title. Setting in customize screen allow you to select column layout for service section sidebar. "
+msgstr "Секция услуг на главной странице создается с помощью боковой колонки услуг. Используйте виджет HC: избранная страница для добавления услуг. Вы можете показать любое количество услуг с использованием иконок шрифта Font Awesome или собственных картинок. Есть настройки изменения позиции картинки/иконки вокруг заголовка. Вы также можете выбрать макет колонок."
+
+#: functions/health-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Возможности услуг"
+
+#: functions/health-info/sections/github.php:43
+msgid "Premium theme have 2 type of sliders each can be shown usign different homepage templates. Add any number of slides having title, subtitle and custom read more button."
+msgstr "В премиум тебе есть 2 типа слайдеров, каждый из которых может быть показан с помощью разных шаблонов главной страницы. Добавляйте любое количество слайдов с заголовками, подзаголовками и ссылками."
+
+#: functions/health-info/sections/github.php:42
+msgid "Front Page Slider"
+msgstr "Слайдер главной страницы"
+
+#: functions/health-info/sections/github.php:34
+msgid "Beautifully style navigation/menu in health Theme. You can make multi level menu. Multi Level menu means that you can create sub menu."
+msgstr "Красиво настройте навигацию в теме health. Вы можете использовать многоуровневое меню, то есть подменю."
+
+#: functions/health-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Многоуровневое меню"
+
+#: functions/health-info/sections/github.php:25
+msgid "In the premium version you will get top header sidebar area in which you can use any widget, all the widgets are styled. We have created number of widgets in the theme wich you can use it here. Specifically use the health Info Widget for showing email-id , contact number or any other info of your choice even social icons and many more."
+msgstr "В премиум версии темы вы получите боковую колонку с шапке. Мы также создали несколько специальных виджетов, которые можно там использовать - для отображения контактной информации, социальных иконок и др."
+
+#: functions/health-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "Верхняя секция шапки"
+
+#: functions/health-info/sections/github.php:17
+msgid "This feature helps you to rename the slug names from the URL allowing you to make it SEO friendly."
+msgstr "Эта секция поможет вам переименовать слаги в ссылках, чтобы сделать их более дружелюбными для поисковых систем."
+
+#: functions/health-info/sections/github.php:11
+#: functions/health-info/welcome-screen.php:209
+msgid "Why Upgrade Pro"
+msgstr "Зачем обновляться до ПРО"
+
+#: functions/health-info/sections/getting-started.php:72
+msgid "Support"
+msgstr "Поддержка"
+
+#: functions/health-info/sections/getting-started.php:69
+msgid "Rate This Theme"
+msgstr "Оцените тему"
+
+#: functions/health-info/sections/getting-started.php:60
+msgid "Premium Theme Support"
+msgstr "Поддержка ПРО версии темы"
+
+#: functions/health-info/sections/getting-started.php:57
+msgid "View Pro"
+msgstr "Просмотр Pro"
+
+#: functions/health-info/sections/getting-started.php:53
+msgid "Lite Demo"
+msgstr "Демо бесплатной версии"
+
+#: functions/health-info/sections/getting-started.php:45
+msgid "Useful Links"
+msgstr "Полезные ссылки"
+
+#: functions/health-info/sections/getting-started.php:35
+msgid "health-center-lite Blue Child Theme"
+msgstr "Дочерняя тема health-center-lite Blue"
+
+#: functions/health-info/sections/getting-started.php:28
+msgid "Note: Intresting fact about this theme is, after upgrade you can start from where you have left in the lite version. You have to install the premium version as a separate package like any other WordPress Theme."
+msgstr "Примечание: интересный факт об этой теме - после обновления вы можете продолжить с того места, где вы закончили в бесплатной версии. Вам надо будет установить премиум версию как отдельную тему."
+
+#: functions/health-info/sections/getting-started.php:24
+msgid "Premium version even allows you to configure the layout of sidebars, for example if you want to show services, portfolio,testomonials in 2,3 and 4 column layout, than you are not required to add any css of php code just specify the section layout and get the desired result. Theme also support famous Page Builders since number of widgets are built in. "
+msgstr "Премиум версия позволяет вам настроить макет боковых колонок. Вы можете показывать услуги, отзывы и проекты в 2/3/4 колонки, без кода. Просто выберите желаемую опцию. Тем также поддерживает популярные Page Builders. "
+
+#: functions/health-info/sections/getting-started.php:20
+msgid ""
+"Health Centre is a clean, elegant and very flexible WordPress theme for Health and Medical business company. All the elements required in a medical theme are given in HealthCentre. The theme is designed in such a manner makes it suitable for other service company and corporate categories.\n"
+"\n"
+"Packed with everything you need to launch your site hassle free! Powerful and user friendly Customize Theme Options, Sidebar enabled HomePage Sections having support for all the WordPress core widgets. Premium theme is packed with many widgets like Service Page Widget, Portfolio Widget, Patient Testimonials Widget,Latest News Widget , Faq widgets , Info widget etc "
+msgstr ""
+"Health Centre является чистой, элегантной и очень гибкой темой. Все элементы, которые могут понадобиться в медицинской теме, присутствую в ней. Тема разработана таким образом, что подходит и для любого другого вида бизнеса.\n"
+"\n"
+"В ней есть все, что вам нужно, для просто запуска вашего сайта - настройки в кастомизаторе, боковые колонки и виджеты. В премиум версии есть виджеты страницы услуг, портфолио, отзывов пациентов, последних новостей, вопросов и ответов, информационного виджета и др."
+
+#: functions/health-info/sections/getting-started.php:14
+msgid "About Health Center Lite Theme"
+msgstr "О теме Health Center Lite "
+
+#: functions/health-info/sections/free_pro.php:170
+msgid "Get Health Center PRO Now!"
+msgstr "Получить Health Center PRO сейчас!"
+
+#: functions/health-info/sections/free_pro.php:159
+msgid "Premium Support Forum"
+msgstr "Форум премиум поддержки"
+
+#: functions/health-info/sections/free_pro.php:149
+msgid "Customizable"
+msgstr "Настраиваемая"
+
+#: functions/health-info/sections/free_pro.php:148
+msgid "Support for thousands of Font-Awesome Icon , Featured Images and Read More Button / Link"
+msgstr "Поддержка тысяч иконок Fontawesome, избранных изображдений и кнопок/ссылок Прочитать больше"
+
+#: functions/health-info/sections/free_pro.php:147
+msgid "WBR: HC Icon Info Widget, WBR: HC Page / Service Widget,  WBR: HC Project Widget, WBR: HC Recent News Widget, WBR: HC Faq Widget, WBR: HC Testimonial Widget, WBR: HC Team Widget, WBR: HC Recent Post Widget, WBR: HC Footer Contact Widget"
+msgstr "WBR: HC Icon Info Widget, WBR: HC Page / Service Widget,  WBR: HC Project Widget, WBR: HC Recent News Widget, WBR: HC Faq Widget, WBR: HC Testimonial Widget, WBR: HC Team Widget, WBR: HC Recent Post Widget, WBR: HC Footer Contact Widget"
+
+#: functions/health-info/sections/free_pro.php:145
+msgid "About us, Portfolio 2/3/4 column, Blog Left Sidebar, Blog Right Sidebar, Blog Full Width, Page Full Width, Default Contact Page and Contact Page with contact form 7 Support."
+msgstr "О нас, портфолио 2/3/4 колонки, блог с боковой колонкой слева, блог с боковой колонкой справа, блог на всю ширину, контактная страница обычная и с поддержкой плагина Contact Form 7."
+
+#: functions/health-info/sections/free_pro.php:144
+msgid "Top Header, Slider [Unlimited Slides], Service [Unlimited Services], Portfolio [Unlimited Projects], Latest News, Faq, Patients Feedback , Testimonials, Additional Section, Callout and Footer widgetizeds area"
+msgstr "Верхняя шапка, слайдер[без ограничений], услуги [без ограничений], портфолио [без ограничений], последние новости, вопросы и ответы, отзывы , отзывы, дополнительная секция, подвал с областями для виджетов"
+
+#: functions/health-info/sections/free_pro.php:128
+msgid "On WordPress.org Support Forum"
+msgstr "На форуме поддержки WordPress.org"
+
+#: functions/health-info/sections/free_pro.php:118
+msgid "Not Customizable"
+msgstr "Не настраиваемая"
+
+#: functions/health-info/sections/free_pro.php:117
+msgid "Support For Featured Image"
+msgstr "Поддержка избранной картинки"
+
+#: functions/health-info/sections/free_pro.php:116
+msgid "WBR: HC Page Widget [Service, Portfolio]"
+msgstr "WBR: HC Page Widget [услуги, портфолио]"
+
+#: functions/health-info/sections/free_pro.php:114
+msgid "Home Page Template, Full Width Page Template and Blog Right Sidebar Template"
+msgstr "Шаблон главной страницы, шаблон на всю ширину, шаблон блога с правой боковой колонкой"
+
+#: functions/health-info/sections/free_pro.php:113
+msgid "Top Header Section, Banner Image ,Service ,Project / Product ,Latest News ,Footer Callout Section"
+msgstr "Секция верхней шапки, картинка баннера, услуги, проекты, последние новости, секция контактов в подвале"
+
+#: functions/health-info/sections/free_pro.php:109
+msgid "Health Center Lite"
+msgstr "Health Center Lite"
+
+#: functions/health-info/sections/free_pro.php:98
+msgid "Get instant 24x7 support on Our Support Forum."
+msgstr "Получите моментальную 24/7 поддержку на нашем форуме."
+
+#: functions/health-info/sections/free_pro.php:97
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: functions/health-info/sections/free_pro.php:93
+msgid "Create exact replica of our demo site by importing the dummy data file."
+msgstr "Создайте точную копию нашего демо-сайта путем импорта файла фиктивных данных."
+
+#: functions/health-info/sections/free_pro.php:92
+msgid "Access to Dummy Data File"
+msgstr "Доступ к файлу фиктивных данных"
+
+#: functions/health-info/sections/free_pro.php:88
+msgid "Create Multilingual Website. Support for famous plugin like: WPML / Polylang "
+msgstr "Создание многоязычного веб-сайта. Поддержка известных плагинов таких как: WPML / Polylang "
+
+#: functions/health-info/sections/free_pro.php:87
+msgid "WPML Support"
+msgstr "Поддержка WPML"
+
+#: functions/health-info/sections/free_pro.php:82
+msgid "Create Categorized Portfolio by using portfolio 2/3/4 column layout templates. Also show Diffrent set of portfolio on diffrent page. "
+msgstr "Создайте категоризированное портфолио с использованием соответствующего макета колонок. Также показывайте разный набор портфолио на разных страницах."
+
+#: functions/health-info/sections/free_pro.php:81
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: functions/health-info/sections/free_pro.php:77
+msgid "Display your Shop and Business location on your website. Support for all the Google Map plugins which generates shortcode.  "
+msgstr "Покажите расположение вашего магазина или бизнеса на сайте. Поддержка плагина Google Maps, который генерирует шорткод."
+
+#: functions/health-info/sections/free_pro.php:72
+msgid "Enjoy with 8 preset color schemes. You can also create custom skin without adding any code."
+msgstr "Наслаждайтесь 8-ю предустановленными цветовыми гаммами. Можно также создать пользовательскую гамму без добавления какого-либо кода."
+
+#: functions/health-info/sections/free_pro.php:71
+#: functions/health-info/sections/github.php:88
+msgid "Mulitple Color Schemes"
+msgstr "Несколько цветовых гамм"
+
+#: functions/health-info/sections/free_pro.php:67
+msgid "This feature allow you to change custom post type slug names in the url."
+msgstr "Эта функция позволяет переименовывать слаги пользовательских типов записей в ссылках."
+
+#: functions/health-info/sections/free_pro.php:66
+#: functions/health-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr "Ссылки дружелюбные для поисковых систем"
+
+#: functions/health-info/sections/free_pro.php:62
+msgid "Default WordPress Contact Form and Contact Form 7 support. Add the forms using couple of predefined Contact Page Templates"
+msgstr "Поддержка стандартного WordPress виджета контактов и плагина Contact Form 7. Добавляйте формы, используя шаблон контактной страницы."
+
+#: functions/health-info/sections/free_pro.php:61
+msgid "Contact Form Support"
+msgstr "Поддержка контактной формы"
+
+#: functions/health-info/sections/free_pro.php:56
+msgid "Responsive  layout in all devices."
+msgstr "Адаптивные макеты на всех устройствах."
+
+#: functions/health-info/sections/free_pro.php:55
+msgid "Mobile Friendly"
+msgstr "Работает на мобильных"
+
+#: functions/health-info/sections/free_pro.php:46
+msgid "Customize Home page Sections Layout"
+msgstr "Настройте макет секций на домашней странице"
+
+#: functions/health-info/sections/free_pro.php:45
+msgid "Homepage Section / Sidebar Layout"
+msgstr "Макет секций главной страницы / боковой колонки"
+
+#: functions/health-info/sections/free_pro.php:41
+msgid "Add Services by using widget WBR: HC Page Widget"
+msgstr "Добавляйте услуги, используя виджет WBR: виджет страницы HC"
+
+#: functions/health-info/sections/free_pro.php:40
+msgid "Service Content type Widget"
+msgstr "Виджет услуг"
+
+#: functions/health-info/sections/free_pro.php:36
+msgid "Theme Have number of beautifuly designed Custom Widgets"
+msgstr "В теме есть несколько прекрасно сделанных собственных виджетов"
+
+#: functions/health-info/sections/free_pro.php:31
+msgid "Theme have many sidebar on Front page and Custom Page Template, Like Contact page template. "
+msgstr "В теме много боковых колонок на главной странице и в шаблонах других страниц."
+
+#: functions/health-info/sections/free_pro.php:30
+msgid "No of  sidebar on Homepage"
+msgstr "Количество боковых колонок на главной странице"
+
+#: functions/health-info/sections/free_pro.php:25
+msgid "Various Page Template included in Health Center Premium Theme."
+msgstr "В тему Health Center Premium включено несколько шаблонов страниц."
+
+#: functions/health-info/sections/free_pro.php:24
+msgid "Page Templates Support"
+msgstr "Поддержка шаблонов страниц"
+
+#: functions/health-info/sections/free_pro.php:20
+msgid "You will find number of sections on front-page"
+msgstr "Вы увидите несколько секций на главной странице"
+
+#: functions/health-info/sections/free_pro.php:19
+msgid "Frontpage Sections"
+msgstr "Секции главной страницы"
+
+#: functions/health-info/sections/child-themes.php:107
+msgid "Health Press - Current theme"
+msgstr "Health Press - текущая тема"
+
+#: functions/health-info/sections/child-themes.php:92
+#: functions/health-info/sections/child-themes.php:98
+msgid "Health Press"
+msgstr "Health Press"
+
+#: functions/health-info/sections/child-themes.php:90
+msgid "Health Press Child Theme"
+msgstr "Дочерняя тема Health Press"
+
+#: functions/health-info/sections/child-themes.php:75
+msgid "Health Care - Current theme"
+msgstr "Health Care  - текущая тема"
+
+#: functions/health-info/sections/child-themes.php:66
+msgid "Health Care"
+msgstr "Health Care"
+
+#: functions/health-info/sections/child-themes.php:60
+msgid "Health care"
+msgstr "Health Care "
+
+#: functions/health-info/sections/child-themes.php:58
+msgid "Health Care Child Theme"
+msgstr "Дочерняя тема Health Care "
+
+#: functions/health-info/sections/child-themes.php:45
+#: functions/health-info/sections/child-themes.php:76
+#: functions/health-info/sections/child-themes.php:108
+msgid "Customize"
+msgstr "Настроить"
+
+#: functions/health-info/sections/child-themes.php:44
+msgid "medical-treatment - Current theme"
+msgstr "medical-treatment - текущая тема"
+
+#: functions/health-info/sections/child-themes.php:38
+#: functions/health-info/sections/child-themes.php:69
+#: functions/health-info/sections/child-themes.php:101
+msgid "Live Preview"
+msgstr "Предпросмотр"
+
+#: functions/health-info/sections/child-themes.php:37
+#: functions/health-info/sections/child-themes.php:68
+#: functions/health-info/sections/child-themes.php:100
+msgid "Install %s now"
+msgstr "Установить %s сейчас"
+
+#: functions/health-info/sections/child-themes.php:27
+msgid "Medical Treatment Child Theme"
+msgstr "Дочерняя тема Medical Treatment"
+
+#: functions/health-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Health center lite child themes that will totally transform the look of your site."
+msgstr "Ниже вы найдете список дочерних тем Health center lite, которые полностью изменят внешний вид вашего сайта."
+
+#: functions/health-info/sections/child-themes.php:16
+msgid "Install & Use Health Center Lite Child Themes"
+msgstr "Установите и используйте дочерние темы Health Center Lite"
+
+#: functions/health-info/sections/actions-required.php:30
+#: functions/health-info/sections/actions-required.php:37
+msgid "health Blue Child Theme"
+msgstr "Дочерняя тема health Blue"
+
+#: functions/health-info/sections/actions-required.php:22
+msgid "If you want to show Homepage as Front Page? You need to set the Homepage as static page as shown in the snapshot below. Now go to custmizer and start configuring the sections in  Business Template. Hope you will find this theme useful"
+msgstr "Если вы хотите показать шаблон Главная страница на морде вашего сайта, установите Главную страницу статической страницей, как показано на скриншоте ниже. Теперь перейдите в кастомизатор и начните настраивать секции в Бизнес шаблоне. Надеемся, что вам понравится!"
+
+#: functions/health-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Displays."
+msgstr "2. Свяжите главную страницу с мордой сайта."
+
+#: functions/health-info/sections/actions-required.php:14
+msgid "To setup exact replica of home page as shown in our demo, you have to create a WordPress page using a template \"Business Template\". Business Template shows all the section like banner, services, portfolio, Latest News, Footer Callout etc which is ideal for any business site. Kindly refer the snapshot."
+msgstr "Чтобы настроить точную копию главной страницы, как сделано на нашем демо, создайте WordPress страницу с шаблоном \"Бизнес шаблон\". Бизнес шаблон отображает все секции, такие как баннер, услуги, портфолио и т.д., что идеально подходит для любого бизнес-сайта. Обратите внимание на скриншот."
+
+#: functions/health-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1. Создание главной страницы с использованием шаблона Home Page Template."
+
+#: functions/widget/wbr-register-page-widget.php:100
+msgid "Display image below title"
+msgstr "Показать картинки под заголовком"
+
+#: functions/widget/wbr-register-page-widget.php:95
+msgid "Hide featured image"
+msgstr "Скрыть избранную картинку"
+
+#: functions/widget/wbr-register-page-widget.php:72
+msgid "Select pages"
+msgstr "Выберите страницы"
+
+#: functions/widget/wbr-register-page-widget.php:18
+msgid "Feature page item widget"
+msgstr "Виджет элемента избранной страницы"
+
+#: functions/widget/wbr-register-page-widget.php:17
+msgid "WBR : Page Widget"
+msgstr "WBR: виджет страницы"
+
+#: functions/widget/custom-sidebar.php:66
+msgid "Faq widget area"
+msgstr "Область виджетов вопросов и ответов"
+
+#: functions/widget/custom-sidebar.php:64
+msgid "Homepage faq section - sidebar"
+msgstr "Боковая колонка - секция вопросов и ответов главной страницы"
+
+#: functions/widget/custom-sidebar.php:52
+#: functions/widget/custom-sidebar.php:54
+msgid "Homepage latest news section - sidebar"
+msgstr "Боковая колонка - секция последних новостей главной страницы"
+
+#: functions/widget/custom-sidebar.php:43
+msgid "Use the widget WBR: Page Widget to add project type content"
+msgstr "Используйте этот виджет WBR : виджет страницы для отображение проекта"
+
+#: functions/widget/custom-sidebar.php:41
+msgid "Homepage project section - sidebar"
+msgstr "Боковая колонка - секция проектов главной страницы"
+
+#: functions/widget/custom-sidebar.php:31
+msgid "Use the widget WBR: Page Widget to add service type content"
+msgstr "Используйте этот виджет WBR : виджет страницы для отображения услуг"
+
+#: functions/widget/custom-sidebar.php:29
+msgid "Homepage service section - sidebar"
+msgstr "Боковая колонка - секция услуг главной страницы"
+
+#: functions/widget/custom-sidebar.php:18
+#: functions/widget/custom-sidebar.php:20
+msgid "Top header sidebar"
+msgstr "Боковая колонка шапки"
+
+#: functions/customizer/slider-panel.php:62
+msgid "Select post"
+msgstr "Выбрать запись"
+
+#: functions/customizer/slider-panel.php:49
+msgid "Select slider post"
+msgstr "Выберите запись слайдера"
+
+#: functions/customizer/slider-panel.php:40
+msgid "Hide Home Slider"
+msgstr "Скрыть слайдер на главной странице"
+
+#: functions/customizer/slider-panel.php:13
+msgid "Choose Post"
+msgstr "Выбрать запись"
+
+#: functions/customizer/service-panel.php:120
+msgid "Call now number"
+msgstr "Номер телефона для звонка"
+
+#: functions/customizer/service-panel.php:107
+msgid "Call now text"
+msgstr "Текст для призыва к звонку"
+
+#: functions/customizer/service-panel.php:94
+msgid "Site intro"
+msgstr "Интро сайта"
+
+#: functions/customizer/service-panel.php:75
+#: functions/customizer/service-panel.php:82
+msgid "Big intro section"
+msgstr "Большой раздел интро"
+
+#: functions/customizer/faq-panel.php:7
+msgid "FAQ section"
+msgstr "Секция Вопросов и Ответов"
+
+#: functions/customizer/callout-panel.php:28
+msgid "Hide callout section"
+msgstr "Скрыть секцию контактной информации"
+
+#: functions/customizer/callout-panel.php:7
+msgid "Callout section"
+msgstr "Секция связи"
+
+#. Template Name of the plugin/theme
+msgid "Business Template"
+msgstr "Бизнес Шаблон"
+
+#: functions/customizer/slider-panel.php:7
+#: functions/customizer/slider-panel.php:21
+msgid "Slider section"
+msgstr "Секция слайдера"
+
+#. Template Name of the plugin/theme
+msgid "Full-Width Page"
+msgstr "Полной ширины страницы"
+
+#. Template Name of the plugin/theme
+msgid "Blog With Right Sidebar"
+msgstr "Блог с правым сайдбаром"
+
+#: functions/health-info/sections/free_pro.php:76
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: functions/customizer/recent_news-panel.php:7
+msgid "Recent news section"
+msgstr "Секция последних новостей"
+
+#: functions/customizer/customizer_header.php:7
+msgid "Header settings"
+msgstr "Настройки шапки"
+
+#: functions/customizer/customizer-pro.php:115
+msgid "The Pro Version gives you more opportunities to enhance your site and business. In order to create effective online presence one have to showcase their wide range of products, have to use contact us enquiry form, have to make effective about us page, have to introduce team members, etc etc . The pro version will give it all. Buy the pro version and give us a chance to serve you better."
+msgstr "ПРО версия дает вам больше возможностей для улучшения вашего сайта и бизнеса. Для создания эффективного присутствия в интернете необходимо показывать широкий набор продуктов, использовать контактные формы, создать эффективную страницу о компании, рассказать о команде и т.д. ПРО версия дает вам это все. Купите ПРО версию и дайте нам возможность более эффективно помочь вам."
+
+#: functions/customizer/customizer-pro.php:111
+msgid "DOCUMENTATION"
+msgstr "Документация"
+
+#: functions/customizer/customizer-pro.php:81
+msgid "ADD YOUR REVIEW"
+msgstr "Добавьте свой отзыв"
+
+#: functions/health-info/sections/child-themes.php:29
+#: functions/health-info/sections/child-themes.php:35
+msgid "Medical Treatment"
+msgstr "Medical Treatment"
+
+#: tag.php:7
+msgid "Tag Archive %s"
+msgstr "Архив метки %s"
+
+#: search.php:49
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Жаль, но ничего не соответствуют критериям вашего поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: search.php:47
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: search.php:8
+msgid "Search results for %s"
+msgstr "Результаты поиска для %s"
+
+#: single.php:16
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: single.php:16
+msgid "Leave a comment"
+msgstr "Оставить коментарий"
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:52
+msgid "Page"
+msgstr "Страница"
+
+#: functions/widget/custom-sidebar.php:75
+#: functions/widget/custom-sidebar.php:77
+msgid "Footer widget area"
+msgstr "Область виджетов в подвале"
+
+#: functions/customizer/project-panel.php:7
+msgid "Project section"
+msgstr "Секция проекта"
+
+#: functions/customizer/customizer-pro.php:16
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: functions/customizer/service-panel.php:7
+msgid "Service section"
+msgstr "Секция услуг"
+
+#: functions/health-info/sections/free_pro.php:140
+msgid "Health Center Pro"
+msgstr "Health Center Pro"
+
+#: functions/health-info/sections/github.php:106
+msgid "Custom widget "
+msgstr "Пользовательский виджет"
+
+#: functions/customizer/customizer-pro.php:47
+#: functions/customizer/customizer-pro.php:54
+msgid "Upgrade to pro"
+msgstr "Обновитесь до PRO"
+
+#: functions/health-info/sections/free_pro.php:14
+msgid "Features"
+msgstr "Особенности"
+
+#: functions/health-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Готова к переводу"
+
+#: functions/health-info/sections/github.php:125
+msgid "Click Here"
+msgstr "Нажмите здесь"
+
+#: functions/customizer/slider-panel.php:43
+msgid "Enable slider on front page."
+msgstr "Включить слайдер на главной странице"
+
+#: functions/commentbox/comment-function.php:26
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions/commentbox/comment-function.php:20
+msgid "at"
+msgstr "в"
+
+#: functions/commentbox/comment-function.php:12
+msgid "Reply"
+msgstr "Ответить"
+
+#: comments.php:47
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: comments.php:45
+msgid "Post Comment"
+msgstr "Отправить комментарий"
+
+#: comments.php:43
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: comments.php:33
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: comments.php:32
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:31
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:17
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:16
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Это запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: author.php:55 category.php:55 index.php:60
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: author.php:52 category.php:52 index.php:57 template-blog-with-rightsb.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+#: author.php:45 category.php:45 full-width.php:37 index.php:49 page.php:33
+#: template-blog-with-rightsb.php:53
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#: archive.php:13
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#: archive.php:11
+msgid "Yearly Archive"
+msgstr "Архив за год"
+
+#: archive.php:9
+msgid "Monthly Archive"
+msgstr "Архив за месяц"
+
+#: archive.php:7
+msgid "Daily Archive"
+msgstr "Архив за день"
+
+#: 404.php:18
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Мы сожалеем, но страница, которую вы ищете, не существует."
+
+#: 404.php:17
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:6 404.php:16
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#. Author URI of the plugin/theme
+msgid "http://webriti.com/"
+msgstr "http://webriti.com/"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/health-center-lite-version-details-page/"
+msgstr "http://webriti.com/health-center-lite-version-details-page/"

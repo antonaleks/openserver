@@ -1,0 +1,67 @@
+# Translation of Themes - Health care in Russian
+# This file is distributed under the same license as the Themes - Health care package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-05 15:54:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Health care\n"
+
+#. Description of the plugin/theme
+msgid "A  theme which is ideal for creating a Health / Doctor / Clinic / Medical Business related website. Theme has couple of extra templates makes it even more powerful."
+msgstr "Тема идеально подходит для создания сайта тематики здоровья, доктора, клиники или медицинского сайта. В теме есть несколько дополнительных шаблонов."
+
+#. Theme Name of the plugin/theme
+msgid "Health care"
+msgstr "Health care"
+
+#: functions/widget/custom-sidebar.php:9
+msgid "Use the widget WBR: HC Page Widget to add service type content"
+msgstr "Используйте виджет WBR: HC виджет страницы для добавления услуги"
+
+#: functions/widget/custom-sidebar.php:7
+msgid "Homepage service section - sidebar"
+msgstr "Боковая колонка - секция услуг на главной странице"
+
+#. Template Name of the plugin/theme
+msgid "Blog With Right Sidebar"
+msgstr "Блог с правой боковой колонкой"
+
+#. Template Name of the plugin/theme
+msgid "Blog With Left Sidebar"
+msgstr "Блог с левой боковой колонкой"
+
+#. Template Name of the plugin/theme
+msgid "Blog With fullwidth"
+msgstr "Блог на всю ширину"
+
+#: template-blog-fullwidth.php:58 template-blog-leftsidbar.php:59
+#: template-blog-rightsidbar.php:58
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-blog-fullwidth.php:57 template-blog-leftsidbar.php:58
+#: template-blog-rightsidbar.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+#: template-blog-fullwidth.php:52 template-blog-leftsidbar.php:53
+#: template-blog-rightsidbar.php:52
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/health-care-child-version-details-page/"
+msgstr "http://webriti.com/health-care-child-version-details-page/"
